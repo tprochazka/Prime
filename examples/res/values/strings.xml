@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Examples</string>
+    <string name="app_name">Prime Examples</string>
     <string name="viewpager_example">ViewPager</string>
     <string name="listview_example">ListView</string>
     <string name="gridview_example">GridView</string>
